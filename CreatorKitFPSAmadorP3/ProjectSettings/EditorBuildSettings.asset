@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Creator Kit - FPS/Scenes/TheGoat.unity
+    guid: 7a95a5de89296fd44b256b4d3823e4aa
   m_configObjects: {}
